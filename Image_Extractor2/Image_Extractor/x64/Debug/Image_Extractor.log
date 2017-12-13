@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Image.cpp
+  DiskImage.cpp
+c:\users\st89\dropbox\courses\digifor\image_extractor\image_extractor\knownsignature.h(24): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\st89\dropbox\courses\digifor\image_extractor\image_extractor\knownsignature.h(24): warning C4309: 'initializing': truncation of constant value
+c:\users\st89\dropbox\courses\digifor\image_extractor\image_extractor\knownsignature.h(26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\st89\dropbox\courses\digifor\image_extractor\image_extractor\knownsignature.h(26): warning C4309: 'initializing': truncation of constant value
+c:\users\st89\dropbox\courses\digifor\image_extractor\image_extractor\diskimage.cpp(239): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  Image_Extractor.vcxproj -> C:\Users\st89\Dropbox\Courses\digiFor\Image_Extractor\x64\Debug\Image_Extractor.exe
+  Image_Extractor.vcxproj -> C:\Users\st89\Dropbox\Courses\digiFor\Image_Extractor\x64\Debug\Image_Extractor.pdb (Partial PDB)
